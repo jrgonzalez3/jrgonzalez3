@@ -1,20 +1,4 @@
 ### Hi there 👋
-
-<!--
-**jrgonzalez3/jrgonzalez3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there 👋
  
 <!--
 **jrgonzalez3/jrgonzalez3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,7 +26,8 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  ![](https://hit.yhype.me/github/profile?user_id=15972480)
+
+  ![](https://komarev.com/ghpvc/?username=jrgonzalez3&color=red)
 </p>
 
 <br><br>
@@ -64,6 +49,7 @@ Here are some ideas to get you started:
     <!-- <a target="_blank" href="https://gescob.online"><img alt="Gescob" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a> &nbsp; -->
     <a target="_blank" href="https://instagram.com/jrgonzalez3"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a> &nbsp;
     <a target="_blank" href="https://twitter.com/ciberexitosos"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a> &nbsp;
+    <a href="https://www.linkedin.com/in/justoramon/" rel="nofollow"><img alt="LinkedIn" title="Perfil Profesional" src="https://camo.githubusercontent.com/a151dcd3cd0add73ee4446f97775fe47a7683056a5e5e39e14725bc895b91543/68747470733a2f2f736869656c64732e696f2f62616467652f2d4c494e4b4544494e2d3030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://shields.io/badge/-LINKEDIN-0077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
     <!-- <a target="_blank" href="https://keybase.io/imkuroneko"><img alt="Keybase" src="https://img.shields.io/badge/Keybase-25c8f5?style=flat&logo=keybase&logoColor=white"/></a> -->
 </p>
 
