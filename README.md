@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   ![](https://hit.yhype.me/github/profile?user_id=15972480)
-  ![](https://komarev.com/ghpvc/?username=jrgonzalez3)
+ https://komarev.com/ghpvc/?username=jrgonzalez3
 </p>
 
 <br><br>
