@@ -94,6 +94,6 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<p align="center">![](![](https://komarev.com/ghpvc/?username=jrgonzalez3&style=flat-square))</p>
+<p align="center">![](https://komarev.com/ghpvc/?username=jrgonzalez3&style=flat-square)</p>
 
 <br><br>
