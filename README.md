@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![banner](https://avatars.githubusercontent.com/u/15972480?s=400&u=7c946171aa5524b4e113188b922c8a7778368314&v=4)
+![banner]()
 
 <h2 align="center">  About Me </h2>
 <p align="center">
@@ -33,21 +32,20 @@ Here are some ideas to get you started:
 
 <h2 align="center"> 📦 Current Major Projects </h2>
 <ul>
-    <li><a href="https://github.com/imkuroneko/RemTicketHelper">🎫 RemTicketHelper</a>: Ticket tool for discord.</li>
-    <li><a href="https://github.com/imkuroneko/WardBot">🛡 WardBot</a>: A simple Discord bot for track and delete messages if match patterns of p*rn or phishing related to Discord or Steam</a>
-    <li><a href="https://github.com/imkuroneko/MegumiMusicBot">🎶 MegumiMusicBot</a>: A simple Discord bot for music based on DisTube</a>
-    <li><a href="https://github.com/imkuroneko/DatabaseBackuper">🛢 DatabaseBackuper</a>: A simple Discord bot for backup your database when you need and want it</a>
+    <li><a href="https://github.com/jrgonzalez3/facturacionelectronicapy-xmlgen">🎫 XmlGen</a>: Generator Xml.</li>
+    <!-- <li><a href="https://github.com/imkuroneko/WardBot">🛡 WardBot</a>: A simple Discord bot for track and delete messages if match patterns of p*rn or phishing related to Discord or Steam</a> -->
+    <!-- <li><a href="https://github.com/imkuroneko/MegumiMusicBot">🎶 MegumiMusicBot</a>: A simple Discord bot for music based on DisTube</a> -->
+    <!-- <li><a href="https://github.com/imkuroneko/DatabaseBackuper">🛢 DatabaseBackuper</a>: A simple Discord bot for backup your database when you need and want it</a> -->
 </ul>
 
 <br><br><br>
 
 <h3 align="center"> 🌐 Socials </h3>
 <p align="center">
-    <a target="_blank" href="https://discord.gg/wrMcTef"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a> &nbsp;
-    <a target="_blank" href="https://instagram.com/im_kuroneko"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a> &nbsp;
-    <a target="_blank" href="https://twitch.tv/im_kuroneko"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white"/></a> &nbsp;
-    <a target="_blank" href="https://twitter.com/im_kuroneko"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a> &nbsp;
-    <a target="_blank" href="https://keybase.io/imkuroneko"><img alt="Keybase" src="https://img.shields.io/badge/Keybase-25c8f5?style=flat&logo=keybase&logoColor=white"/></a>
+    <a target="_blank" href="https://gescob.online"><img alt="Gescob" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a> &nbsp;
+    <a target="_blank" href="https://instagram.com/jrgonzalez3"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a> &nbsp;
+    <a target="_blank" href="https://twitter.com/ciberexitosos"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a> &nbsp;
+    <!-- <a target="_blank" href="https://keybase.io/imkuroneko"><img alt="Keybase" src="https://img.shields.io/badge/Keybase-25c8f5?style=flat&logo=keybase&logoColor=white"/></a> -->
 </p>
 
 <br>
@@ -85,15 +83,15 @@ Here are some ideas to get you started:
 
 <h3 align="center"> 📊 GitHub Stats </h3>
 <p align="center">
-    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=imkuroneko&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true"/> &nbsp;
-    <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkuroneko&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=jrgonzalez3&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true"/> &nbsp;
+    <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrgonzalez3&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 </p>
 
 <br>
 
 <h3 align="center"> 💰 You can help me by Donating </h3>
 <p align="center">
-    <a target="_blank" href="https://paypal.me/imkuroneko"><img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white"/></a> &nbsp;
-    <a target="_blank" href="https://ko-fi.com/imkuroneko"><img alt="KoFi" src="https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white"/></a>
+    <a target="_blank" href="https://paypal.me/jrgonzalez3"><img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white"/></a> &nbsp;
+    <a target="_blank" href="https://ko-fi.com/jrgonzalez3"><img alt="KoFi" src="https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white"/></a>
 </p>
 
