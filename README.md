@@ -94,9 +94,6 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<p align="center">
-  ![](https://hit.yhype.me/github/profile?user_id=15972480)
- https://komarev.com/ghpvc/?username=jrgonzalez3
-</p>
+<p align="center">![](![](https://komarev.com/ghpvc/?username=jrgonzalez3&style=flat-square))</p>
 
 <br><br>
