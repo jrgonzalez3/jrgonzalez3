@@ -92,7 +92,11 @@ Here are some ideas to get you started:
     <a target="_blank" href="https://paypal.me/intercambiopaypal1"><img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white"/></a> &nbsp;
 </p>
 <br>
+<br>
 
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=jrgonzalez3&color=red)
+  ![](https://hit.yhype.me/github/profile?user_id=15972480)
+  ![](https://komarev.com/ghpvc/?username=jrgonzalez3)
 </p>
+
+<br><br>
