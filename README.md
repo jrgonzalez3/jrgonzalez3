@@ -14,18 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+ 
+<!--
+**jrgonzalez3/jrgonzalez3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 
 <!-- ![banner]()  -->
 
 <h2 align="center">  About Me </h2>
 <p align="center">
-👰🏻⠀35 years old &nbsp;  &nbsp; 🌎⠀From LATAM &nbsp; 🍕⠀Foodie &nbsp;  &nbsp;  &nbsp; 💬⠀Guarani, Spanish and English &nbsp; ⚡⠀WebDev & DBA FullTime &nbsp; 📚⠀Computer Engineering &nbsp; Father of SantyBB
+👰🏻⠀35 years old &nbsp;  &nbsp; 🌎⠀From LATAM &nbsp; 🍕⠀Foodie &nbsp;  &nbsp;  &nbsp; 💬⠀Guarani, Spanish and English &nbsp; ⚡⠀WebDev & DBA FullTime &nbsp; 📚⠀Computer Engineering &nbsp; 
 </p>
 
 <br>
 
 <p align="center">
-    <img src="![](https://hit.yhype.me/github/profile?user_id=15972480)"/>
+  ![](https://hit.yhype.me/github/profile?user_id=15972480)
 </p>
 
 <br><br>
