@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <!-- ![banner]()  -->
 
 <h2 align="center">  About Me </h2>
 <p align="center">
-👰🏻⠀35 years old &nbsp;  &nbsp; 🌎⠀From LATAM &nbsp; 🍕⠀Foodie &nbsp;  &nbsp;  &nbsp; 💬⠀Guarani,Spanish and English &nbsp; ⚡⠀WebDev & DBA FullTime &nbsp; 📚⠀Computer Engineering &nbsp; Father of SantyBB
+👰🏻⠀35 years old &nbsp;  &nbsp; 🌎⠀From LATAM &nbsp; 🍕⠀Foodie &nbsp;  &nbsp;  &nbsp; 💬⠀Guarani, Spanish and English &nbsp; ⚡⠀WebDev & DBA FullTime &nbsp; 📚⠀Computer Engineering &nbsp; Father of SantyBB
 </p>
 
 <br>
@@ -33,17 +32,19 @@ Here are some ideas to get you started:
 
 <h2 align="center"> 📦 Current Major Projects </h2>
 <ul>
+    <li><a href="https://github.com/jrgonzalez3/jrgonzalez3.github.io">🎫 Portfolio </a>: Portfolio, Resume & Contacts </li>
     <li><a href="https://github.com/jrgonzalez3/facturacionelectronicapy-xmlgen">🎫 XmlGen</a>: Generator Xml.</li>
-    <!-- <li><a href="https://github.com/imkuroneko/WardBot">🛡 WardBot</a>: A simple Discord bot for track and delete messages if match patterns of p*rn or phishing related to Discord or Steam</a> -->
-    <!-- <li><a href="https://github.com/imkuroneko/MegumiMusicBot">🎶 MegumiMusicBot</a>: A simple Discord bot for music based on DisTube</a> -->
-    <!-- <li><a href="https://github.com/imkuroneko/DatabaseBackuper">🛢 DatabaseBackuper</a>: A simple Discord bot for backup your database when you need and want it</a> -->
+    <li><a href="https://github.com/jrgonzalez3/facturacionElectronica">🎫 Facturacion Electronica </a>:  Facturacion Electronica Sifen Paraguay.</li>
+    <li><a href="https://github.com/jrgonzalez3/gestock360-xmlgen">🎫 Gestock360</a>: Sistema de Gestion Comercial Multiempresa y Multisucursal</li>
+    <li><a href="https://github.com/jrgonzalez3/gescob_landing">🎫 Gescob </a>: Website Gescob.online.</li>
+  
 </ul>
 
 <br><br><br>
 
 <h3 align="center"> 🌐 Socials </h3>
 <p align="center">
-    <a target="_blank" href="https://gescob.online"><img alt="Gescob" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a> &nbsp;
+    <!-- <a target="_blank" href="https://gescob.online"><img alt="Gescob" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a> &nbsp; -->
     <a target="_blank" href="https://instagram.com/jrgonzalez3"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a> &nbsp;
     <a target="_blank" href="https://twitter.com/ciberexitosos"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a> &nbsp;
     <!-- <a target="_blank" href="https://keybase.io/imkuroneko"><img alt="Keybase" src="https://img.shields.io/badge/Keybase-25c8f5?style=flat&logo=keybase&logoColor=white"/></a> -->
@@ -75,7 +76,7 @@ Here are some ideas to get you started:
 <p align="center">
     <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white"/> &nbsp;
     <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white"/> &nbsp;
-    <img alt="Railway" src="https://img.shields.io/badge/Railway-%23a335df.svg?style=flat&logo=Railway&logoColor=white"/> &nbsp;
+    <!-- <img alt="Railway" src="https://img.shields.io/badge/Railway-%23a335df.svg?style=flat&logo=Railway&logoColor=white"/> &nbsp; -->
     <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white"/> &nbsp;
     <img alt="PM2" src="https://img.shields.io/badge/PM2-%2336117e.svg?style=flat&logo=PM2&logoColor=white"/>
 </p>
@@ -92,7 +93,7 @@ Here are some ideas to get you started:
 
 <h3 align="center"> 💰 You can help me by Donating </h3>
 <p align="center">
-    <a target="_blank" href="https://paypal.me/jrgonzalez3"><img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white"/></a> &nbsp;
-    <a target="_blank" href="https://ko-fi.com/jrgonzalez3"><img alt="KoFi" src="https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white"/></a>
+    <a target="_blank" href="https://paypal.me/intercambiopaypal1"><img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white"/></a> &nbsp;
+    <!-- <a target="_blank" href="https://ko-fi.com/jrgonzalez3"><img alt="KoFi" src="https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white"/></a> -->
 </p>
 
