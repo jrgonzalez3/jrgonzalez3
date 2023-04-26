@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 <ul>
     <li><a href="https://github.com/jrgonzalez3/jrgonzalez3.github.io">🎫 Portfolio </a>: Portfolio, Resume & Contacts </li>
     <li><a href="https://github.com/jrgonzalez3/facturacionelectronicapy-xmlgen">🎫 XmlGen</a>: Generator Xml.</li>
-    <li><a href="https://github.com/jrgonzalez3/facturacionElectronica">🎫 Facturacion Electronica </a>:  Facturacion Electronica Sifen Paraguay.</li>
     <li><a href="https://github.com/jrgonzalez3/sistema.gestock360.online">🎫 Gestock360</a>: Sistema de Gestion Comercial Multiempresa y Multisucursal</li>
     <li><a href="https://github.com/jrgonzalez3/gescob_landing">🎫 Gescob </a>: Website Gescob.online.</li>
   
