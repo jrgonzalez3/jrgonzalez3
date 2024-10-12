@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">  About Me </h2>
 <p align="center">
-👰🏻⠀37 years old &nbsp;  &nbsp; 🌎⠀From LATAM &nbsp; 🍕⠀Foodie &nbsp;  &nbsp;  &nbsp; 💬⠀Guarani, Spanish and English &nbsp; ⚡⠀WebDev, DevOps & DBA FullTime &nbsp; 📚⠀Computer Engineering &nbsp; 
+👰🏻⠀37 years old &nbsp;  &nbsp; 🌎⠀From LATAM &nbsp; 🍕⠀Foodie &nbsp;  &nbsp;  &nbsp; 💬⠀Guarani, Spanish and English &nbsp; ⚡⠀WebDev, DevOps & DBA FullTime &nbsp; 📚⠀ Engineering, Tech, Consultant, Coach & University Professor
 </p>
 
 
